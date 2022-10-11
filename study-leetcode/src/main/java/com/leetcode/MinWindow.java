@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname MinWindow
  * @Description 最小覆盖子串   https://leetcode-cn.com/problems/minimum-window-substring/
  * @Date 2022/4/11 22:20

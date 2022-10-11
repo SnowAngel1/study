@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname MaxProduct
  * @Description 乘积最大子数组   https://leetcode-cn.com/problems/maximum-product-subarray/
  * @Date 2022/5/4 21:31

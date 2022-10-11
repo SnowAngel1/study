@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description TODO
  * @since 1.0.0
  */

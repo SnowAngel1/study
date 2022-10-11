@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname Fibonacci
  * @Description 递归实现斐波那契   1 1 2 3 5 8 13 (前两位数的和==后一位)
  * @Date 2022/6/19 21:49

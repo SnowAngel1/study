@@ -1,7 +1,7 @@
 package com.leetcode.recursion;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description 斐波那契数列
  * @since 1.0.0
  */

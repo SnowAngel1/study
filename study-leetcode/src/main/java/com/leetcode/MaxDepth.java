@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname MaxDepth
  * @Description 二叉树的最大深度 https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
  * @Date 2022/4/21 20:40

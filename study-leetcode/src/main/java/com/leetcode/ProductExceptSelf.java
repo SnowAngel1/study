@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname ProductExceptSelf
  * @Description 除自身以外数组的乘积  https://leetcode.cn/problems/product-of-array-except-self/
  * @Date 2022/5/15 21:31

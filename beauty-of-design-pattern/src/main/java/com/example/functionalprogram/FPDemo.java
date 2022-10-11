@@ -4,7 +4,7 @@ import java.util.Optional;
 import java.util.stream.Stream;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description 函数式编程
  * @since 1.0.0
  */

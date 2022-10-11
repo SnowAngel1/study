@@ -10,7 +10,6 @@
         <module name="study-user-sentinel-rule-push-demo" />
         <module name="study-user-sentinel-rule-pull-demo" />
         <module name="mall-user" />
-        <module name="speing-cloud-alibaba-sentinel-demo" />
         <module name="spring-cloud-alibaba-sentinel-demo" />
         <module name="study-leetcode" />
         <module name="study-jvm" />
@@ -30,7 +29,7 @@
       <module name="mall-user-feign-demo" options="-parameters" />
       <module name="spring-cloud-alibaba-sentinel-demo" options="-parameters" />
       <module name="study-common" options="-parameters" />
-      <module name="study-jvm" options="-parameters" />
+      <module name="study-jvm" options="" />
       <module name="study-leetcode" options="" />
       <module name="study-mybatisplus" options="-parameters" />
       <module name="study-user-sentinel-demo" options="-parameters" />

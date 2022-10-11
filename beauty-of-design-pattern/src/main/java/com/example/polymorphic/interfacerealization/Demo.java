@@ -1,7 +1,7 @@
 package com.example.polymorphic.interfacerealization;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description TODO
  * @since 1.0.0
  */

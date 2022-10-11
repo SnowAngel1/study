@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72cd2110-a4e6-462b-8e4c-3c8dc35a3e74" name="Changes" comment="" />
+    <list default="true" id="72cd2110-a4e6-462b-8e4c-3c8dc35a3e74" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/functionalprogram/FPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/functionalprogram/FPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/functionalprogram/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/functionalprogram/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/interfacerealization/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/override/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/override/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/override/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/override/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/override/SortedDynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/src/main/java/com/example/polymorphic/override/SortedDynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/functionalprogram/FPDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/functionalprogram/FPDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/MallUserFeignDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/MallUserFeignDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/domain/request/UserInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/domain/request/UserInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/feign/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user-feign-demo/src/main/java/mall/feigndemo/feign/UserFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/MallUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/MallUserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/dao/user/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/dao/user/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/domain/entity/user/UserInfoBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/domain/entity/user/UserInfoBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/domain/request/user/UserInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/domain/request/user/UserInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/domain/response/user/UserInfoResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/domain/response/user/UserInfoResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/service/UserInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/service/UserInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/service/impl/UserInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-user/src/main/java/com/mall/user/service/impl/UserInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/src/main/java/com/sentinel/SpringCloudAlibabaSentinelApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/src/main/java/com/sentinel/SpringCloudAlibabaSentinelApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/src/main/java/com/sentinel/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/src/main/java/com/sentinel/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/src/main/java/com/sentinel/controller/limitTraffic/SlidingTimeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/src/main/java/com/sentinel/controller/limitTraffic/SlidingTimeWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/com/sentinel/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/com/sentinel/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-jvm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/study-jvm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/FeiBoNaQie.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/FeiBoNaQie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/MaxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/MaxProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/MinWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/MinWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/ProductExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/recursion/FeiBoNaQieShuLie.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-leetcode/src/main/java/com/leetcode/recursion/FeiBoNaQieShuLie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/src/main/java/com/study/user/sentineldemo/domain/request/UserInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-demo/src/main/java/com/study/user/sentineldemo/domain/request/UserInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/src/main/java/com/study/user/sentineldemo/feign/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-demo/src/main/java/com/study/user/sentineldemo/feign/UserFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/src/main/java/com/study/sentinelrulepush/StudyUserSentinelRulePullDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/src/main/java/com/study/sentinelrulepush/StudyUserSentinelRulePullDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/src/main/java/com/study/sentinelrulepush/domain/request/UserInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/src/main/java/com/study/sentinelrulepush/domain/request/UserInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/src/main/java/com/study/sentinelrulepush/feign/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/src/main/java/com/study/sentinelrulepush/feign/UserFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/src/main/java/com/study/user/sentineldemo/domain/request/UserInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/src/main/java/com/study/user/sentineldemo/domain/request/UserInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/src/main/java/com/study/user/sentineldemo/feign/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/src/main/java/com/study/user/sentineldemo/feign/UserFeignService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +104,9 @@
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2EOZtboWmATpbMfdxHXaBDTecGg" />
   <component name="ProjectViewState">
@@ -183,6 +232,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MallUserSentinelRulePushDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="study-user-sentinel-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.user.sentineldemo.MallUserSentinelRulePushDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.FeiBoNaQieShuLie" />
       <item itemvalue="Application.Example" />
@@ -190,6 +246,7 @@
       <item itemvalue="Application.FPDemo" />
       <item itemvalue="Spring Boot.MallUserSentinelRulePushDemoApplication (1)" />
       <item itemvalue="Spring Boot.MallUserApplication" />
+      <item itemvalue="Spring Boot.MallUserSentinelRulePushDemoApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -225,11 +282,34 @@
       <workItem from="1664869874255" duration="760000" />
       <workItem from="1665021741049" duration="6058000" />
       <workItem from="1665235204104" duration="4213000" />
-      <workItem from="1665494491354" duration="12000" />
+      <workItem from="1665494491354" duration="1068000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1665494600121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665494600121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

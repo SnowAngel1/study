@@ -1,7 +1,7 @@
 package com.example.polymorphic.override;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description 继承+重写方法实现多态demo
  * @since 1.0.0
  */

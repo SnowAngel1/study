@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname TwoSum
  * @Description 两数之和  https://leetcode-cn.com/problems/two-sum/
  * @Date 2022/4/11 22:29

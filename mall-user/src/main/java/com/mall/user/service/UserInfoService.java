@@ -4,7 +4,7 @@ import com.mall.user.domain.request.user.UserInfoReq;
 import com.mall.user.domain.response.user.UserInfoResp;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description TODO
  * @since 1.0.0
  */

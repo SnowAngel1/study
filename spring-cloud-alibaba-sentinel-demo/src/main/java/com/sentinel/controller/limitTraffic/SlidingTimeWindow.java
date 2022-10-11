@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Random;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Description 滑动窗口限流实现
  * 假设某个服务最多只能每秒处理100个请求，我们可以设置一个1秒钟的滑动时间窗口
  * 窗口中有10个格子，每个格子100毫秒，每100毫秒移动一次，每次移动都需要记录当前服务请求的次数

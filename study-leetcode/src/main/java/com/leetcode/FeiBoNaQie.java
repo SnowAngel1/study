@@ -1,7 +1,7 @@
 package com.leetcode;
 
 /**
- * @author：陈迎鹏
+ * @author：江南
  * @Classname FeiBoNaQie
  * @Description  递归，斐波那契数列
  * @Date 2022/5/29 23:01
