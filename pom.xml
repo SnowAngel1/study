@@ -25,6 +25,7 @@
         <module>study-user-sentinel-demo</module>
         <module>study-user-sentinel-rule-push-demo</module>
         <module>beauty-of-design-pattern</module>
+        <module>learn-minio</module>
     </modules>
 
 
