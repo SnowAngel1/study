@@ -4,102 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72cd2110-a4e6-462b-8e4c-3c8dc35a3e74" name="Changes" comment="modify authorName,and feat study-jvm modular version">
-      <change afterPath="$PROJECT_DIR$/learn-minio/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/MinioSpringBootStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/config/MinioConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/config/MinioProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/controllrt/MinioUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/demo/DownLoadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/demo/FileUploadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-minio/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/90fe3eae-8e9d-4735-b2fb-702bb7adce99.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/90fe3eae-8e9d-4735-b2fb-702bb7adce99.xml" afterDir="false" />
+    <list default="true" id="72cd2110-a4e6-462b-8e4c-3c8dc35a3e74" name="Changes" comment="feat：learn minio">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2733c8e3-996e-43f7-9e15-40995a3d8372.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2733c8e3-996e-43f7-9e15-40995a3d8372.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/functionalprogram/FPDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/interfacerealization/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/interfacerealization/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/interfacerealization/Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/interfacerealization/LinkedList$LinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/interfacerealization/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/override/DynamicArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/override/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-of-design-pattern/target/classes/com/example/polymorphic/override/SortedDynamicArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/target/classes/mall/feigndemo/MallUserFeignDemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/target/classes/mall/feigndemo/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/target/classes/mall/feigndemo/domain/request/UserInfoReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user-feign-demo/target/classes/mall/feigndemo/feign/UserFeignService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/MallUserApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/dao/user/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/domain/entity/user/UserInfoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/domain/request/user/UserInfoReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/domain/response/user/UserInfoResp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/service/UserInfoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/com/mall/user/service/impl/UserInfoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-user/target/classes/mapper/user/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-minio/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/MinioSpringBootStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/MinioSpringBootStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/controllrt/MinioUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/controllrt/MinioUploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-minio/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/com/sentinel/SpringCloudAlibabaSentinelApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/com/sentinel/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/com/sentinel/controller/limitTraffic/SlidingTimeWindow$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-sentinel-demo/target/classes/com/sentinel/controller/limitTraffic/SlidingTimeWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/exection/RRException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/Constant$CloudService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/Constant$MenuType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/Constant$ScheduleStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/PageUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/Query.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/utils/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/xss/HTMLFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/xss/SQLFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/xss/XssFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/xss/XssHttpServletRequestWrapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/target/classes/com/common/xss/XssHttpServletRequestWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/MallUserSentinelRulePushDemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/common/ExceptionUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/common/MyBlockExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/converter/ConverterConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/converter/FlowParamConverterBeanPostProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/converter/FlowParamJsonConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/converter/JsonParseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/domain/request/UserInfoReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/feign/FallbackOrderFeignService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/feign/FallbackOrderFeignServiceFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/feign/FallbackOrderFeignServiceFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-demo/target/classes/com/study/user/sentineldemo/feign/UserFeignService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/com/study/sentinelrulepush/StudyUserSentinelRulePullDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/com/study/sentinelrulepush/common/ExceptionUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/com/study/sentinelrulepush/common/MyBlockExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/com/study/sentinelrulepush/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/com/study/sentinelrulepush/domain/request/UserInfoReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-pull-demo/target/classes/com/study/sentinelrulepush/feign/UserFeignService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/StudyUserSentinelRulePushDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/common/ExceptionUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/common/MyBlockExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/converter/ConverterConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/converter/FlowParamConverterBeanPostProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/converter/FlowParamJsonConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/converter/JsonParseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/domain/request/UserInfoReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/feign/FallbackOrderFeignService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/feign/FallbackOrderFeignServiceFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/feign/FallbackOrderFeignServiceFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-user-sentinel-rule-push-demo/target/classes/com/study/user/sentineldemo/feign/UserFeignService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-common/src/main/java/com/common/utils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-common/src/main/java/com/common/utils/R.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -171,7 +95,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -206,7 +130,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DownLoadDemo">
+  <component name="RunManager" selected="Spring Boot.MinioSpringBootStart">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.polymorphic.interfacerealization.Demo" />
       <module name="beauty-of-design-pattern" />
@@ -226,19 +150,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.minio.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.polymorphic.override.Example" />
-      <module name="beauty-of-design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.polymorphic.override.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,22 +197,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinioSpringBootStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="learn-minio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.minio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.minio.MinioSpringBootStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Example" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.FPDemo" />
       <item itemvalue="Application.FileUploadDemo" />
       <item itemvalue="Application.DownLoadDemo" />
       <item itemvalue="Spring Boot.MallUserSentinelRulePushDemoApplication (1)" />
       <item itemvalue="Spring Boot.MallUserSentinelRulePushDemoApplication" />
+      <item itemvalue="Spring Boot.MinioSpringBootStart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MinioSpringBootStart" />
         <item itemvalue="Application.DownLoadDemo" />
         <item itemvalue="Application.FileUploadDemo" />
         <item itemvalue="Application.FPDemo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -333,6 +257,8 @@
       <workItem from="1665663886061" duration="4602000" />
       <workItem from="1666184546856" duration="1998000" />
       <workItem from="1667723435491" duration="4423000" />
+      <workItem from="1667741058196" duration="719000" />
+      <workItem from="1667826421120" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1665494600121</created>
@@ -348,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665495680184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat：learn minio">
+      <created>1667741266642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667741266642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat：learn minio">
+      <created>1667741275220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667741275220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +308,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="modify authorName,and feat study-jvm modular version" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify authorName,and feat study-jvm modular version" />
+    <MESSAGE value="feat：learn minio" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：learn minio" />
   </component>
 </project>
