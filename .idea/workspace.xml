@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72cd2110-a4e6-462b-8e4c-3c8dc35a3e74" name="Changes" comment="feat：learn minio">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2733c8e3-996e-43f7-9e15-40995a3d8372.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2733c8e3-996e-43f7-9e15-40995a3d8372.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="72cd2110-a4e6-462b-8e4c-3c8dc35a3e74" name="Changes" comment="feat：learn minio springboot整合">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-minio/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/MinioSpringBootStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/MinioSpringBootStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/controllrt/MinioUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/src/main/java/com/example/minio/controllrt/MinioUploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-minio/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-minio/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study-common/src/main/java/com/common/utils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/study-common/src/main/java/com/common/utils/R.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="MyBatisCodeHelper" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -199,13 +191,13 @@
     </configuration>
     <configuration name="MinioSpringBootStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="learn-minio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.minio.MinioSpringBootStart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.minio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.minio.MinioSpringBootStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -258,7 +250,8 @@
       <workItem from="1666184546856" duration="1998000" />
       <workItem from="1667723435491" duration="4423000" />
       <workItem from="1667741058196" duration="719000" />
-      <workItem from="1667826421120" duration="4638000" />
+      <workItem from="1667826421120" duration="4728000" />
+      <workItem from="1668519942219" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1665494600121</created>
@@ -288,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667741275220</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat：learn minio springboot整合">
+      <created>1667831573284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667831573284</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +309,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="modify authorName,and feat study-jvm modular version" />
     <MESSAGE value="feat：learn minio" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：learn minio" />
+    <MESSAGE value="feat：learn minio springboot整合" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：learn minio springboot整合" />
   </component>
 </project>

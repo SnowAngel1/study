@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="mall-user">
-  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.32">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.43">
     <root id="1"/>
     <collation id="2" parent="1" name="big5_chinese_ci">
       <Charset>big5</Charset>
@@ -757,10 +757,10 @@
       <CollationName>utf8_general_ci</CollationName>
     </table>
     <column id="239" parent="238" name="id">
+      <AutoIncrement>1</AutoIncrement>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
-      <SequenceIdentity>null</SequenceIdentity>
     </column>
     <column id="240" parent="238" name="user_name">
       <DataType>varchar(50)|0s</DataType>
@@ -772,9 +772,9 @@
       <Position>3</Position>
     </column>
     <key id="242" parent="238" name="PRIMARY">
-      <ColNames>id</ColNames>
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
+      <UnderlyingIndexColNames>id</UnderlyingIndexColNames>
     </key>
   </database-model>
 </dataSource>
